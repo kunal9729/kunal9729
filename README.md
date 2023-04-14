@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
 <h1 align="center">Hi 👋, I'm Kunal Sabharwal</h1>
-<h3 align="center">A passionate, avid and attentive future Software Developer.</h3>
+<h3 align="center">A passionate, avid and Aspiring Software Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
 
 - First of All Gentle Reminder:- **Smile always and do good deeds for others as well as for yourselve.**
